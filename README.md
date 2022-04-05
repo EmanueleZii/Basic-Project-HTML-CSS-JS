@@ -1,5 +1,5 @@
 # Basic-Projects-HTML-CSS-JS
-Basic Projects html/css/js
+Basic Projects html/css/js (Progetti Per Principianti)
 
 01-BackGround Color (sfondo del sito cambia)
 
