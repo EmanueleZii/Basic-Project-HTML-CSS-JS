@@ -12,3 +12,5 @@ Basic Projects html/css/js (Progetti Per Principianti)
 05-Manda un messaggio (si puo scrivere e lasciare un messaggio in bacheca )
 
 06-slide di immagini 
+
+07-Orologio (un semplice orologio)
