@@ -9,7 +9,7 @@ const quotes  = [
     },
     {
         name:'Leonardo Da Vinci',
-        quotes : 'Saper ascoltare significa possedere, oltre al proprio, il cervello degli altri.'
+        quotes : 'Saper ascoltare significa, oltre al proprio, il cervello degli altri.'
     },
     {
         name:'Steve Jobs',
